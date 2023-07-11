@@ -1,0 +1,102 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #E9D8A6;
+  color: #001219;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 50px 50px 10px 50px;
+  border: 10px solid #001219;
+  border-radius: 10px;
+  width: 1500px;
+  text-align: center;
+}
+
+header {
+  color: #005F73;
+  background-color: #94D2BD;
+  border: 5px solid #001219;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+nav a {
+  display: inline-block;
+  background-color: #005F73;
+  color: white;
+  border: 2px solid #001219;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px 3px 10px 3px;
+}
+
+main {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  color: #005F73;
+  background-color: #94D2BD;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid #001219;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+caption {
+  font-weight: bold;
+  border: 2px solid #001219;
+  background-color: #EE9B00;
+  padding: 8px;
+}
+
+tr th {
+  border: 2px solid #001219;
+  background-color: #CA6702;
+  padding: 5px;
+}
+
+tr td {
+  border: 2px solid #001219;
+  background-color: #AE2012;
+  padding: 2px;
+}
+
+form {
+  margin: 20px;
+}
+
+fieldset {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #001219;
+}
+
+legend {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #001219;
+}
+
+label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #001219;
+}
+
+input {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #001219;
+  padding: 5px;
+}
+
+button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #001219;
+  padding: 5px;
+}
